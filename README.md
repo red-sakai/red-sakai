@@ -11,6 +11,6 @@ Hello, I am Jhered Miguel C. Republica, an aspiring Software Engineer and workin
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,nodejs,mysql,sqlite)](https://skillicons.dev)
 
 ### 🛠 Other Tools
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,github,vercel,figma,photoshop,unity,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,github,vercel,figma,photoshop,ae,pr,unity,robloxstudio)](https://skillicons.dev)
 
 <br />
