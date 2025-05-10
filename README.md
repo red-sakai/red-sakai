@@ -2,7 +2,6 @@
 
 Hello, I am Jhered Miguel C. Republica, an aspiring Software Engineer and working towards being a fullstack developer specializing in python. I am working everyday in order to improve my knowledge about the current trends and algorithms.
 
-Currently learning: C++
 ---
 
 ### 🌐 Frontend
