@@ -1,16 +1,55 @@
 # 🐬 CodeRed
 
-Hello, I am Jhered Miguel C. Republica, an aspiring Software Engineer and working towards being a fullstack developer specializing in python. I am working everyday in order to improve my knowledge about the current trends and algorithms.
+Hi! I'm **Jhered Miguel C. Republica** — a **1st Year Computer Engineering student** and an aspiring **Software Engineer**. I'm currently working toward becoming a **fullstack developer**, with a strong focus on **Python** and modern web technologies.
+
+Every day, I'm learning, building, and improving my skills — especially in current frameworks, tools, and algorithms — to grow into a capable and forward-thinking developer.
 
 ---
 
-### 🌐 Frontend
+## 🌐 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,next,vite,tailwind,flask)](https://skillicons.dev)
 
-### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,nodejs,mysql,sqlite)](https://skillicons.dev)
+- Clean UI/UX design with **Tailwind CSS**
+- Modern web apps using **React** and **Next.js**
+- Fast tooling with **Vite**
+- Fullstack integrations with **Flask**
 
-### 🛠 Other Tools
+---
+
+## ⚙️ Backend & Game Development
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,nodejs,ts,mysql,sqlite,pytorch)](https://skillicons.dev)
+
+- API development with **Python** and **Node.js**
+- Databases: **MySQL**, **SQLite**
+- AI & ML using **PyTorch**
+- Game development using **C++**
+
+---
+
+## 🛠 Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,github,vercel,figma,photoshop,ae,pr,unity,robloxstudio)](https://skillicons.dev)
 
-<br />
+- IDEs: **VS Code**, **PyCharm**
+- Version Control: **GitHub**
+- Deployment: **Vercel**, **Render**
+- Design & Media: **Figma**, **Photoshop**, **After Effects**, **Premiere Pro**
+- Game Dev: **Unity**, **Roblox Studio**
+
+---
+
+## 📈 Currently Learning
+- **Training AI models**
+- **Fullstack frameworks (Next.js + Flask)**
+- **Backend architecture and DevOps**
+- **Machine Learning with Python**
+
+---
+
+## 📫 Let's Connect!
+I'm always open to collaborating on cool projects or learning together!
+
+- 📧 jheredmiguelrepublica14@gmail.com
+
+---
+
+> *“Code. Learn. Repeat. Until you inspire.”*
