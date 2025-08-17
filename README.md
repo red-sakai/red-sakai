@@ -1,6 +1,6 @@
 # 🐬 CodeRed
 
-Hi! I'm **Jhered Miguel C. Republica** — a **1st Year Computer Engineering student** and an aspiring **Software Engineer**. I'm currently working toward becoming a **fullstack developer**, with a strong focus on **Python** and modern web technologies.
+Hi! I'm **Jhered Miguel C. Republica** — a **2nd Year Computer Engineering student** and an aspiring **Software Engineer**. I'm currently working toward becoming a **fullstack developer**, with a strong focus on **Python** and modern web technologies.
 
 Every day, I'm learning, building, and improving my skills — especially in current frameworks, tools, and algorithms — to grow into a capable and forward-thinking developer.
 
@@ -17,12 +17,12 @@ Every day, I'm learning, building, and improving my skills — especially in cur
 ---
 
 ## ⚙️ Backend & Game Development
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,nodejs,ts,mysql,sqlite,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,js,nodejs,ts,mysql,mongodb,supabase,pytorch)](https://skillicons.dev)
 
 - API development with **Python** and **Node.js**
-- Databases: **MySQL**, **SQLite**
+- Databases: **MySQL**, **MongoDB**, **Supabase**
 - AI & ML using **PyTorch**
-- Game development using **C++**
+- Game development using **C#**
 
 ---
 
@@ -34,14 +34,6 @@ Every day, I'm learning, building, and improving my skills — especially in cur
 - Deployment: **Vercel**, **Render**
 - Design & Media: **Figma**, **Photoshop**, **After Effects**, **Premiere Pro**
 - Game Dev: **Unity**, **Roblox Studio**
-
----
-
-## 📈 Currently Learning
-- **Training AI models**
-- **Fullstack frameworks (Next.js + Flask)**
-- **Backend architecture and DevOps**
-- **Machine Learning with Python**
 
 ---
 
