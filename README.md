@@ -1,6 +1,6 @@
 # 🐬 CodeRed
 
-Hi! I'm **Jhered Miguel C. Republica** — a **2nd Year Computer Engineering student** and an aspiring **Software Engineer**. I'm currently working toward becoming a **fullstack developer**, with a strong focus on **Python** and modern web technologies.
+Hi! I'm **Jhered Miguel C. Republica** — a **2nd Year Computer Engineering student** with a passion for web development and mobile development with a passion for cybersecurity and an aspiring **Software Engineer**. I'm currently working toward becoming a **fullstack developer**, with a strong focus on **Python** and modern web technologies.
 
 Every day, I'm learning, building, and improving my skills — especially in current frameworks, tools, and algorithms — to grow into a capable and forward-thinking developer.
 
